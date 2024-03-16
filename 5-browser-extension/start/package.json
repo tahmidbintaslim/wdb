@@ -16,10 +16,10 @@
 	"author": "Jen Looper",
 	"license": "MIT",
 	"devDependencies": {
-		"webpack": "^4.44.1",
+		"webpack": "^5.90.3",
 		"webpack-cli": "^3.3.12"
 	},
 	"dependencies": {
-		"axios": "^0.19.2"
+		"axios": "^1.6.8"
 	}
 }
